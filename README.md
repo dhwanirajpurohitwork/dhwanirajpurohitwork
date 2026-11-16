@@ -1,4 +1,4 @@
-# Hi, I'm Dhwani Rajpurohit 👋
+# Hi, I'm Dhwani Rajpurohit 
 
 **Aspiring AI/ML & Generative AI Engineer | Final-Year BCA**
 
@@ -6,16 +6,16 @@ Building intelligent, data-driven applications that bridge machine learning mode
 
 ---
 
-### ⚡ About Me
+### About Me
 
-- 🎓 **Final-Year BCA Student** transitioning from foundational software engineering to end-to-end AI Engineering.
-- 🧠 **Core Focus:** Machine Learning, Computer Vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
-- 🛠️ **Engineering Mindset:** I don't just train models in notebooks,I focus on clean code, API integration, and deployable systems.
-- 📍 **Currently:** Architecting **CIRCLIQ**, an AI-powered circular commerce platform, while sharpening Python, SQL, and DSA fundamentals.
+- **Final-Year BCA Student** transitioning from foundational software engineering to end-to-end AI Engineering.
+- **Core Focus:** Machine Learning, Computer Vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
+- **Engineering Mindset:** I don't just train models in notebooks, I focus on clean code, API integration, and deployable systems.
+- **Currently:** Architecting **CIRCLIQ**, an AI-powered circular commerce platform, while sharpening Python, SQL, and DSA fundamentals.
 
 ---
 
-### 🚀 Featured Build: CIRCLIQ
+### Featured Build: CIRCLIQ
 **AI & Blockchain-Based Circular Lifecycle Intelligence Platform**
 
 Most fashion tech stops at tracking a garment's origin. **CIRCLIQ** answers the next critical question: *Given a garment's real-time condition and market economics, what is the highest-value next step - Repair, Resell, or Recycle?*
@@ -29,7 +29,7 @@ Most fashion tech stops at tracking a garment's origin. **CIRCLIQ** answers the 
 
 ---
 
-### 🧰 Tech Stack & Tooling
+### Tech Stack & Tooling
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -41,7 +41,7 @@ Most fashion tech stops at tracking a garment's origin. **CIRCLIQ** answers the 
 
 ---
 
-### 🧭 2026–2027 Engineering Roadmap
+### 2026–2027 Engineering Roadmap
 
 - [x] **Phase 1:** Python Engineering, OOP, Git/GitHub & Core Data Structures
 - [ ] **Phase 2:** Data Wrangling, Exploratory Data Analysis (EDA) & Advanced SQL
@@ -51,7 +51,7 @@ Most fashion tech stops at tracking a garment's origin. **CIRCLIQ** answers the 
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 * **LinkedIn:** [connect on linkedin](https://linkedin.com)
 * **GitHub:** [explore my github repo](https://github.com/dhwanirajpurohitwork)
